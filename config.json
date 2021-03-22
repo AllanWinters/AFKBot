@@ -5,8 +5,8 @@
     },
 
     "server": {
-        "host": "localhost",
-        "port": 25565
+        "host": "twnz.aternos.me",
+        "port": 19132
     },
 
     "afkbot": {
